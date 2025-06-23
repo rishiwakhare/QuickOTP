@@ -97,16 +97,5 @@ Contributions are welcome! If you find any bugs or want to suggest new features,
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute freely.
-
----
-
-## Contact
-
-For questions or suggestions, please reach out to the project maintainer.
-
----
 
 **Enjoy using QuickOTP! Secure your apps with confidence. 🔐**
