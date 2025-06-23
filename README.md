@@ -14,8 +14,7 @@ A simple, interactive, and user-friendly web application to generate, validate, 
 - [Usage](#usage)  
 - [Project Structure](#project-structure)  
 - [Possible Extensions](#possible-extensions)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Contributing](#contributing)    
 
 ---
 
